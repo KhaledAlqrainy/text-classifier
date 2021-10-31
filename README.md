@@ -1,4 +1,4 @@
-# Text Classifer
+# Text Classifier
 
 * Create a baseline classification model.
 
